@@ -12,5 +12,5 @@ https://github.com/juanma-wp/streams/tree/main/projects/2025/wpcs-experiments
 - https://github.com/WordPress/WordPress-Coding-Standards/releases/tag/3.2.0
 - https://github.com/PHPCSStandards/composer-installer
 - https://github.com/PHPCSStandards/PHP_CodeSniffer
-  - https://github.com/squizlabs/PHP_CodeSniffer
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer
   - https://github.com/squizlabs/PHP_CodeSniffer/issues/3932
